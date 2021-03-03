@@ -1,0 +1,22 @@
+Foregone_Solution:
+
+	Dif: Easy
+
+You_Can_Go_Your_Own_Way:
+
+	Dif: Very Easy
+
+Cryptopangrams:
+
+	Dif: Medium / Hard
+
+	Test 1 passed, but RE in test 2.
+	...
+	I ended up passing the 2 test, remember, a // b is faster than int(a/b)!!
+
+Dat bae:
+	
+	Dif: Not completely solved.
+	
+	Test 1 passed
+	Test 2 failed
